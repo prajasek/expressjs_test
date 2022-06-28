@@ -20,6 +20,8 @@
   },
   "homepage": "https://github.com/prajasek/expressjs_test#readme",
   "dependencies": {
-    "express": "^4.18.1"
+    "bcrypt": "^5.0.1",
+    "express": "^4.18.1",
+    "uuid": "^8.3.2"
   }
 }
