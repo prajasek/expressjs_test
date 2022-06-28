@@ -1,0 +1,22 @@
+{
+  "name": "express-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prajasek/expressjs_test.git"
+  },
+  "keywords": [
+    "express-test"
+  ],
+  "author": "prasanth-r",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prajasek/expressjs_test/issues"
+  },
+  "homepage": "https://github.com/prajasek/expressjs_test#readme"
+}
